@@ -1,0 +1,12 @@
+.data {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  right: 10%;
+}
+.card-horizontal {
+  display: flex;
+}
+.photo {
+  width: 400px;
+}
